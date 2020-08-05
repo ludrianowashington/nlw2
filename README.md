@@ -1,6 +1,6 @@
 <h3 align="center">
   <img src="./assets/logo.svg" />
-  <h2>A sua plataforma de estudos online</h2>
+  <h2 align="center">A sua plataforma de estudos online</h2>
   <hr>
   <br/>
 <h3>
