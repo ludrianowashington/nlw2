@@ -5,6 +5,6 @@
   <br/>
 <h3>
 <p align="center">
-  <img src="./assets/tela1.png" width="400px" />
+  <img src="./assets/tela1.png" width="1000px" />
   <h5> Tela Principal </h5>
 </p>
