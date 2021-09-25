@@ -35,7 +35,7 @@ O Proffy é uma aplicação Web e Mobile feita para auxiliar na conexão entre o
 
 Este projeto foi idealizado pensando no 6 de agosto, onde se comemora o Dia Nacional dos Profissionais da Educação.
 
-Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketseat. 
+Essa aplicação foi realizada durante a _Next Level Week #2_, projeto da __Rocketseat__. 
 </p>
 
 ## Funcionalidades
@@ -50,10 +50,10 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketse
 
 ## Como rodar a aplicação :arrow_forward:
 
-Faça um fork desse repositório;
-Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-Faça push para a sua branch: `git push origin minha-feature`.
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
 ... 
 
