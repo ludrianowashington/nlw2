@@ -53,14 +53,6 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketse
 
 ... 
 
-## Pré-requisitos
-
-:warning: [Node](https://nodejs.org/en/download/)
-
-...
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
-
 ## Como rodar a aplicação :arrow_forward:
 
 Faça um fork desse repositório;
