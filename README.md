@@ -23,15 +23,10 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 ... 
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto 
 
@@ -45,11 +40,11 @@ Essa aplicação foi realizada durante a Next Level Week #2, projeto da Rocketse
 
 ## Funcionalidades
 
-:heavy_check_mark: Desenvolver o sistema de cadastro/login de usuário.
-:heavy_check_mark: Desenvolver o sistema de cadastro de professores.  
-:heavy_check_mark: Desenvolver o sistema de filtro de professores por dia-materia-hora.
-:heavy_check_mark: Desenvolver o sistema de conexão entre alunos e professores.
-:heavy_check_mark: Desenvolver o sistema de alteração de dados do usuario.
+- Desenvolver o sistema de cadastro/login de usuário.
+- Desenvolver o sistema de cadastro de professores.  
+- Desenvolver o sistema de filtro de professores por dia-materia-hora.
+- Desenvolver o sistema de conexão entre alunos e professores.
+- Desenvolver o sistema de alteração de dados do usuario.
 
 ... 
 
